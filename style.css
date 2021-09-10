@@ -1,0 +1,20 @@
+body {font-family: Arial, Helvetica, sans-serif; margin: 0; font-weight: lighter;}
+.top {background-image: url(kopi.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.menu img {float: left; width:200px; padding-left: 80px;}
+.menu ul{list-style: none;display: inline-flex; float: right; padding-right: 80px; padding-top: 20px;}
+.menu ul li{padding-right: 20px; }
+.menu ul li a {text-decoration: none; cursor: pointer; color: white;}
+.text { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.mul { text-align: left; padding-left: 800px;padding-top: 120px; color: white; font-weight: lighter;}
+.text h1 {font-size: 40px;}
+.text p {font-size: 25px;}
+#jarak { padding-top: 0px; text-align: center; }
+#jarak h2 h3 p {font-weight: lighter; }
+#jarak p {opacity: 70%;}
+.grid3 img {border-radius: 4px 4px 0 0;}
+.kontak {background-image: url(87.jpg); height: 80vh; background-size: cover; width: 100%;}
+.des {width: 20%; padding-left: 120px; color: black; padding-top: 80px;}
+.footer {background: black; color: white; opacity: 90%; padding: 10px;padding-left: 600px;}
+.footer p{opacity: 50%;}
+.footer a{text-decoration: none; color: white;}
+
